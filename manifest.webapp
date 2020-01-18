@@ -1,0 +1,21 @@
+{
+  "name": "Algerian Newspapers",
+  "description": "This app lets you do really awesome stuff",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icons/icon16x16.png",
+    "48": "/icons/icon48x48.png",
+    "128": "/icons/icon128x128.png"
+  },
+  "orientations": [
+    "portrait",
+    "landscape-secondary"
+  ],
+  "chrome": {
+    "navigation": true
+  },
+  "developer": {
+    "name": "walid amriou",
+    "url": "https://twitter.com/walidamriou"
+  }
+}
